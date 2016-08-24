@@ -1,0 +1,42 @@
+[
+  {
+    "name": "pic1",
+    "description": "Одна из первых версток шаблона интернет магазин (Одна, главная страница)",
+    "full_description": "Этот сайт...",
+    "date": "29.09.2015",
+    "link": "http://test-ua.1gb.ua/",
+    "name_pic": "mask7.png"
+  },
+  {
+    "name": "pic2",
+    "description": "National geographic",
+    "full_description": "Этот сайт...",
+    "date": "11.10.2015",
+    "link": "http://test-ua.1gb.ua/",
+    "name_pic": "mask6.png"
+  },
+  {
+    "name": "pic3",
+    "description": "Небольшая игра на JQuery",
+    "full_description": "Этот сайт...",
+    "date": "04.11.2015",
+    "link": "http://test-ua.1gb.ua/",
+    "name_pic": "mask_game.png"
+  },
+  {
+    "name": "pic4",
+    "description": "Поиск игроков",
+    "full_description": "Этот сайт...",
+    "date": "15.11.2015",
+    "link": "http://test-ua.1gb.ua/",
+    "name_pic": "mask8.png"
+  },
+  {
+    "name": "pic5",
+    "description": "Сайт-приложение для спорт зала",
+    "full_description": "Проект рассчитан на мобильные устройства, и предназначен для тренировок в зале с помощью которого можно записывать свои результаты и наблюдать за ними.",
+    "date": "06.01.2016",
+    "link": "http://test-ua.1gb.ua/",
+    "name_pic": "fit_life.png"
+  }
+]
